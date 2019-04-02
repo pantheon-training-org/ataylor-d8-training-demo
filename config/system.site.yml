@@ -1,0 +1,14 @@
+uuid: 3264c79a-606d-4f0b-83af-0bdb4a9ec41c
+name: ataylor-d8-training-demo
+mail: andrew@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
