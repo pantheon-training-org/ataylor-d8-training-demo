@@ -1,0 +1,18 @@
+uuid: e57d2e98-07b4-4fff-8350-8ece232f4efa
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+    parent: 'main:'
+name: 'Store Locations'
+type: store_locations
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true
